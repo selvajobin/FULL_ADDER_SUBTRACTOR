@@ -2,8 +2,8 @@
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 ``` 
-Developed by: AADITHYAN R
-RegisterNumber: 212222230001
+Developed by: Selva Jobin S
+RegisterNumber: 212223220102
 ```
 
 **AIM:**
